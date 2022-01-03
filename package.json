@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "download": "^8.0.0",
+    "rimraf": "^3.0.2"
+  }
+}
